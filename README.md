@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @valentina-bec
-- 👀 I’m interested in coding projects
+- 👀 I’m courious about data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 mail me : valentina.becerra@gmail.com
 
 <!---
 valentina-bec/valentina-bec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
