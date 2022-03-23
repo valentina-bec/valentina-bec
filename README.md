@@ -3,7 +3,7 @@
 ###### new here
 
 - 👋 Hi, I’m valentina
-- 👀 I’m courious about data science
+- 👀 I’m courious about data science projects
 
 - and love to sailing :sailboat:
 
