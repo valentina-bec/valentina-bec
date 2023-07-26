@@ -3,7 +3,8 @@
 ###### new here
 
 - 👋 Hi, I’m valentina
-- 👀 I’m courious about data science projects
+- 👀 I’m curious about data science projects
+- but now in the 🐰 🕳️ with computer science cs50x
 
 - and love to sailing :sailboat:
 
