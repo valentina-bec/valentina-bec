@@ -4,7 +4,8 @@
 
 - 👋 Hi, I’m valentina
 - 👀 I’m curious about data science projects
-- but now in the 🐰 🕳️ with computer science cs50x
+- computer science cs50x done 
+- now looking for new projects ... 
 
 - and love to sailing :sailboat:
 
